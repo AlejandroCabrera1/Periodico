@@ -2,7 +2,7 @@
 <!DOCTYPE HTML>
 <html>
 	<head>
-		<title>PERIÓDICOtitle>
+		
 	</head>
 	<body>
 	<table border=2>
