@@ -27,6 +27,5 @@
 			  <li><a href="https://onefootball.com//" target="_blank">OneFootball</a></li>
 			</td>
 		</tr>
-		
 	</body>
 	</html>
