@@ -19,7 +19,6 @@
 			  <li><a href="https://www.elconfidencial.com/" target="_blank">El Confidencial</a></li>
 			</td>
 		</tr>
-		
 		<tr>
 			<td>Deportes</td>
 			<td><ol>
