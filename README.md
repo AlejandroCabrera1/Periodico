@@ -1,9 +1,7 @@
 # Periodico
 <!DOCTYPE HTML>
 <html>
-	<head>
-		
-	</head>
+	<head></head>
 	<body>
 	<table border=2>
 		<th colspan=2>PERIÓDICO</th>
